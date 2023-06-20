@@ -1,7 +1,7 @@
 # Youtube-Clone
 YT Clone is a web application that replicates the core functionalities and features of the popular video-sharing platform, YouTube. It provides users with a platform to upload, share, and discover videos across various categories and topics..
 
-![Uploading unnamed.png…]()
+![unnamed](https://github.com/mahek-shahu/Youtube-Clone/assets/128591145/e573053e-60ff-4d99-95f6-607fd851a990)
 
 Key Features:
 
